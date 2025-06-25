@@ -9,7 +9,7 @@
 - 🌱 Me encuentro aprendiendo **Kotlin Multiplatform, Jetpack Compose y arquitectura moderna**  
 - 👯 Busco colaborar en proyectos de **Open Source, apps móviles o proyectos educativos**  
 - 💬 Pregúntame sobre **Kotlin, Flutter, Firebase, Health Connect, IA aplicada y más**  
-- 📫 Cómo contactarme: **[gbustosmoreno@gmail.com]**  
+- 📫 Cómo contactarme: **gbustosmoreno@gmail.com**  
 
 ---
 
