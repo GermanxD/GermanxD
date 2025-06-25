@@ -39,18 +39,15 @@ Ingeniero en Mecatrónica apasionado por el desarrollo de software y la automati
 - **Frontend**: Páginas web responsivas con MVC
 - **Backend**: Procedimientos almacenados y APIs
 - **Bases de datos**: SQL Server, MySQL y Firebase
-- **DevOps**: Azure DevOps para CI/CD
 
 ### ⚙️ Tecnologías Operativas & Sistemas
 - **Automatización industrial** con CyberArk
 - **Sistemas ERP** - Implementación y mantenimiento
 - **Análisis de datos** y reportería
-- **Administración de sistemas** Linux y Windows
 
 ## 🎓 Formación
 - **Ingeniería en Mecatrónica** - Universidad Autónoma de Nuevo León
 - **Especialización en Desarrollo Mobile** - Flutter & Android nativo
-- **Certificaciones en Azure DevOps** y metodologías ágiles
 
 ## 🌟 Lo que me caracteriza
 - 🚀 **Proactivo** y con alta capacidad de aprendizaje
