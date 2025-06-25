@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Germán Isaí Bustos Moreno
+# ¡Heyyyyy! Soy Germán Bustos
 
 ## 🚀 Sobre mí
 Ingeniero en Mecatrónica apasionado por el desarrollo de software y la automatización. Me especializo en crear aplicaciones móviles innovadoras y soluciones tecnológicas que optimizan procesos. Siempre estoy en busca de nuevos desafíos que me permitan crecer profesionalmente y contribuir a proyectos impactantes.
