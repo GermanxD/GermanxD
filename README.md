@@ -59,13 +59,11 @@ Ingeniero en Mecatrónica apasionado por el desarrollo de software y la automati
 - 🎯 **Orientado a resultados** y mejora continua
 
 ## 📊 Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GermanxD&show_icons=true&theme=radical)
 
 ## 📫 ¡Conectemos!
 - 📧 Email: gbustosmoreno@gmail.com
-- 📱 Teléfono: (52) 8118490156
-- 📍 El Carmen, N.L., México
-- 💼 LinkedIn: [Tu perfil de LinkedIn]
+- 💼 LinkedIn: https://www.linkedin.com/in/germanbm/
 
 ---
 *"La tecnología es mejor cuando acerca a las personas"* 🚀
