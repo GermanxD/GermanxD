@@ -5,12 +5,11 @@
 
 ## 👨‍💻 Sobre mí
 
-- 🔭 Actualmente trabajo en proyectos de **[nombre de tu app o proyecto]**  
+- 🔭 Actualmente trabajo en proyectos personales
 - 🌱 Me encuentro aprendiendo **Kotlin Multiplatform, Jetpack Compose y arquitectura moderna**  
 - 👯 Busco colaborar en proyectos de **Open Source, apps móviles o proyectos educativos**  
 - 💬 Pregúntame sobre **Kotlin, Flutter, Firebase, Health Connect, IA aplicada y más**  
-- 📫 Cómo contactarme: **[tu correo]**  
-- ⚡ Fun fact: Me encanta la música, la electrónica y crear cosas desde cero  
+- 📫 Cómo contactarme: **[gbustosmoreno@gmail.com]**  
 
 ---
 
@@ -39,14 +38,13 @@
 
 ## 📈 Estadísticas
 
-![German's GitHub stats](https://github-readme-stats.vercel.app/api?username=germanisai&show_icons=true&theme=radical)
+![German's GitHub stats](https://github-readme-stats.vercel.app/api?username=GermanxD&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=germanisai&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GermanxD&layout=compact&theme=radical)
 
 ---
 
 ## 🌐 Redes
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-link)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/tu-usuario)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-12100E?style=flat&logo=vercel&logoColor=white)](https://tu-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/germanbm/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/germaanbm)
