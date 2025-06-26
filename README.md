@@ -12,7 +12,7 @@
 </p>
 
 ---
-<h1 align="center"> Español </h1>
+<h1 id="español" align="center">Español</h1>
 
 ## 🚀 Sobre mí
 Ingeniero en Mecatrónica apasionado por el desarrollo de software y la automatización. Me especializo en crear aplicaciones móviles innovadoras y soluciones tecnológicas que optimizan procesos. Siempre estoy en busca de nuevos desafíos que me permitan crecer profesionalmente y contribuir a proyectos impactantes.
@@ -47,7 +47,7 @@ Ingeniero en Mecatrónica apasionado por el desarrollo de software y la automati
 
 ---
 
-<h1 align="center"> English </h1>
+<h1 id="english" align="center">English</h1>
 
 ## 🚀 About Me
 Mechatronics Engineer passionate about software development and automation. I specialize in creating innovative mobile applications and technological solutions that optimize processes. I am always looking for new challenges that allow me to grow professionally and contribute to impactful projects.
