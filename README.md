@@ -89,6 +89,7 @@ Mechatronics Engineer passionate about software development and automation. I sp
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![JetpackCompose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![ASPX](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 ### Backend & Databases
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
@@ -104,7 +105,6 @@ Mechatronics Engineer passionate about software development and automation. I sp
 ### Programming Languages
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![ASPX](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 ---
 
