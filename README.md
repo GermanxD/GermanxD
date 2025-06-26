@@ -115,9 +115,13 @@ Mechatronics Engineer passionate about software development and automation. I sp
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=GermanxD&theme=dark&hide_border=false"/>
-</div>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=GermanxD&theme=dark&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GermanxD&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
 ---
 <p align="center">
