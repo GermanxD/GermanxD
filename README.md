@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>🌐 Language:</b>
-  <a href="#-español">Español</a> | <a href="#-english">English</a>
+  <a href="#español">Español</a> | <a href="#english">English</a>
 </p>
 
 <p align="center">
