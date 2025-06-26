@@ -1,4 +1,3 @@
-[🇪🇸 Español](./README.md) | [🇬🇧 English](./README.en.md)
 # ¡Heyyyyy! Soy Germán Bustos
 
 ## 🚀 Sobre mí
@@ -65,3 +64,4 @@ Ingeniero en Mecatrónica apasionado por el desarrollo de software y la automati
 
 ---
 *"La tecnología es mejor cuando acerca a las personas"* 🚀
+[🇪🇸 Español](./README.md) | [🇬🇧 English](./README.en.md)
